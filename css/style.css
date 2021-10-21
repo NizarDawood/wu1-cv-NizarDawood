@@ -1,0 +1,18 @@
+<head>
+    ...
+    <style>
+        h1 {
+            color: red;
+        }
+        p {
+            color: green;
+        }
+    </style>
+</head>
+h1 {
+    color: blue;
+}
+p {
+    color: yellow;
+}
+
