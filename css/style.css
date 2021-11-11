@@ -1,0 +1,16 @@
+body {
+    height: 200vh;
+    background-image: url('../nu.png');
+    background-size: cover ;
+    margin: auto;
+    width: 50%;
+    border: 10px solid rgba(101, 138, 207, 0.562);
+    padding: 10px;
+  }
+  h4,h3{
+    color: rgb(206, 32, 32);
+  }
+  .container{
+      style="width: 100%;">
+    <div style="width: 70%; height: 100px; float: left; "> 
+ }
