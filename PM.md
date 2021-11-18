@@ -1,10 +1,11 @@
 # Titel
 
-Författare och datum.
+Nizar Dawood 2021/11/18.
 
 ## Inledning
 
 Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
+jag har gjort en hemsida ut av min Cv syftet med arbetet är att lära oss och jobba med html/css. Vi började med att skissa hur hemsidan skulle se ut på papper och sen till figma slutligen kod på visualstudio 
 
 ## Bakgrund
 
@@ -14,12 +15,13 @@ Använd gärna bilder för att illustrera.
 
 För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, länka dem med url eller filnamnet.
 
+jag började med att skissa  hur hemsidan skulle se ut på papper sen gick jag över till figma och förde över det jag gjorde på papper till figma och förbetrade lite. sen började jag koda 
 ```
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo]()
+Format: ![Alt Text](IMG_20211014_110518.jpg)
 ```
-
-![NTI Gymnasiet Umeå Logo](https://raw.githubusercontent.com/jensnti/Webbprojekt/master/mallar/nti_logo_white_umea.svg)
+![GitHub Logo]()
+Format: ![Alt Text](Skärmbild 2021-11-18 102718.png)
 
 ## Positiva erfarenheter
 
