@@ -1,4 +1,8 @@
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addWatchTarget("./src/sass/");
+    
+    eleventyConfig.addPassthroughCopy('./src/images');
+
     return {
         dir: {
             input: "src",
@@ -6,5 +10,4 @@ module.exports = function(eleventyConfig) {
         }
     }
 };
-eleventyConfig.addWatchTarget("./src/sass/");
 

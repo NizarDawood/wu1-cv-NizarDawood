@@ -1,11 +1,10 @@
 {
   "name": "wu1-cv-nizardawood",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NizarDawood/wu1-cv-NizarDawood.git"
@@ -19,6 +18,9 @@
   "homepage": "https://github.com/NizarDawood/wu1-cv-NizarDawood#readme",
   "dependencies": {
     "@11ty/eleventy": "^1.0.2",
+    "all": "^0.0.0",
     "sass": "^1.55.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
