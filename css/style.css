@@ -1,0 +1,27 @@
+body {
+  
+    background-image: url(/images/nu.png);  
+    background-image: ;
+    margin-inline: 25%;
+    }
+    img{
+      width: 100px;
+      margin-left: 50%;
+    }
+    table{
+      border-spacing: 2px;
+    
+    }
+    h1, td, p{
+      color: rgb(39, 37, 37);
+      
+    }
+    h1{
+      font-size: large;
+      margin: auto;
+    }
+    
+    
+    
+    /*# sourceMappingURL=style.css.map */
+    

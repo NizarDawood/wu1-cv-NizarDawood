@@ -21,7 +21,8 @@ body {
 
       @media (min-width: 600px) {
           display: none;
-      }
+          margin-inline: 10%;
+        }
   }
 
   &__collapse {
@@ -60,23 +61,4 @@ body {
 
 .filter {
   height: 100%;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.4);
-}
-
-.flow > * + * {
-  margin-top: var(--flow-space, 1rem);
-}
-
-footer {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.show {
-  display: flex;
-}
-
-.hide {
-  display: none;
-}
+  
